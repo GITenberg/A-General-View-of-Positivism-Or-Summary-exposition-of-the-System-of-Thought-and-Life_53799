@@ -1,0 +1,49 @@
+_repo: A-General-View-of-Positivism-Or-Summary-exposition-of-the-System-of-Thought-and-Life_53799
+_version: 0.0.1
+alternative_title: Discours sur l'ensemble du positivisme. English
+contributor:
+  author_of_introduction:
+    agent_name: Harrison, Frederic
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '5960'
+    url: http://www.gutenberg.org/2009/agents/5960
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Harrison
+  translator:
+    agent_name: Bridges, John Henry
+    alias: Bridges, J. H. (John Henry)
+    birthdate: 1832
+    deathdate: 1906
+    gutenberg_agent_id: '47541'
+    url: http://www.gutenberg.org/2009/agents/47541
+creator:
+  author:
+    agent_name: Comte, Auguste
+    aliases:
+    - Comte, Isidore Auguste Marie François Xavier
+    - Comte, Isidore Auguste Marie Francois Xavier
+    - Compte, Auguste
+    birthdate: 1798
+    deathdate: 1857
+    gutenberg_agent_id: '35532'
+    url: http://www.gutenberg.org/2009/agents/35532
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Auguste_Comte
+    - http://en.wikipedia.org/wiki/Auguste_Comte
+description: ''
+gutenberg_issued: '2016-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Positivism'
+- !lcc 'B'
+- GITenberg
+title: 'A General View of Positivism
+
+  Or, Summary exposition of the System of Thought and Life'
+url: http://www.gutenberg.org/ebooks/53799
